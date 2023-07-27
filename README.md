@@ -2,6 +2,7 @@
 
 CheckPoints
 1. Configure Application as per your settings for databases and email.
+2. Complete the Methods comment-lined Headings in controller layer.
 
 
 Intermediate Project - Social Media Dashboard API
