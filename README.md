@@ -1,5 +1,9 @@
 # SocialMediaApi
 
+CheckPoints
+1. Configure Application as per your settings for databases and email.
+
+
 Intermediate Project - Social Media Dashboard API
 
 In this project, you will be working on building a Social Media Dashboard API that allows users to manage their friends, perform complex queries, implement pagination and sorting, and integrate an email service. The API will support CRUD operations for users and friends, as well as the ability to retrieve N-level mutual friends.
